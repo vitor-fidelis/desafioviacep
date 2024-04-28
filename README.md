@@ -33,7 +33,7 @@ Este projeto foi desenvolvido como parte do programa Oracle Next Education, uma 
 
 ## Autor
 
-[Seu Nome]
+Vitor Fidelis
 
 ## Licença
 
